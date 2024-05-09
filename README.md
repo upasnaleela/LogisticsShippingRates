@@ -1,2 +1,2 @@
 # LogisticsShippingRates
-LogisticsShippingRates
+LogisticsShippingRates Rules are here
